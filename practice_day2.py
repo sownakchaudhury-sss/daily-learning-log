@@ -13,7 +13,7 @@ if age >= 18:
 else:
     print(f"Hey {user_name}, you are under 18.")
 
-# 2. Simple Bill Splitter (Mini Challenge)
+# 2. Simple Bill Splitter 
 print(f"\n--- {user_name}'s Bill Calculator ---")
 total_bill = float(input("Enter total bill amount: "))
 people = int(input("How many people: "))
